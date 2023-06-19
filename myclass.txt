@@ -1,0 +1,5 @@
+1.git add usually fits into the workflow in the following steps:
+2.Create a branch: git branch update-readme
+3.Checkout to that branch: git checkout update-readme
+4.Change a file or files
+5.Save the file or files
